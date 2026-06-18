@@ -2,6 +2,8 @@
 - 🌱 Aspirante a Engenheiro de Software 
 - 😄 Pronouns: ele/dele
 
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/f2babc36-c252-468b-af3c-c28673ef9bdf" />
+
 <div align="center"><br>
   <a href="https://www.instagram.com/murilo_stegani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "muriostegani@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
