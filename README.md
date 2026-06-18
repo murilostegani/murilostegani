@@ -2,6 +2,12 @@
 - 🌱 Aspirante a Engenheiro de Software 
 - 💬 Contate-me no email: murilostegani@icloud.com
 - 😄 Pronouns: ele/dele
+
+<div align="center"><br>
+  <a href="https://www.instagram.com/murilo_stegani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "muriostegani@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murilo-ambrosio-stegani-0021723b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
