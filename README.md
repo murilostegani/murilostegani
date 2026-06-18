@@ -1,6 +1,5 @@
-- 🔭 Atualmente estou atuando como estagiario de um projeto de informática em uma escola
-- 🌱 Aspirante a Engenheiro de Software 
-- 😄 Pronouns: ele/dele
+<h1 align="center">Olá! Eu sou o Murilo Ambrosio</h1>
+
 
 <div align="center"><br>
   <a href="https://www.instagram.com/murilo_stegani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
