@@ -1,6 +1,5 @@
 - 🔭 Atualmente estou atuando como estagiario de um projeto de informática em uma escola
 - 🌱 Aspirante a Engenheiro de Software 
-- 💬 Contate-me no email: murilostegani@icloud.com
 - 😄 Pronouns: ele/dele
 
 <div align="center"><br>
